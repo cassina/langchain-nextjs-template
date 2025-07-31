@@ -29,7 +29,7 @@ Now you're ready to run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result! Ask the bot something and you'll see a streamed response:
+Open [http://localhost:3000/langgraph](http://localhost:3000/langgraph) with your browser to see the result! Ask the bot something and you'll see a streamed response:
 
 ![A streaming conversation between the user and the AI](/public/images/chat-conversation.png)
 
